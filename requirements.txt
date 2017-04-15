@@ -1,0 +1,5 @@
+pytest==2.8.6
+pytest-html==1.10.0
+selenium==3.0.0b2
+requests==2.11.0
+pyvirtualdisplay==0.2
