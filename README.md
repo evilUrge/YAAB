@@ -30,8 +30,8 @@ chomod +x init.sh
 ## How to use cloud base mobile farm\Selenium Hub:
 
 1. Edit utils/base.py.
-2. Change line 32 "command_executor" value to the host.
-3. Profit.
+2. See func 'create_driver'.
+3. Rewrite command_executor for remote webdriver.
 
 
 ## Credits
