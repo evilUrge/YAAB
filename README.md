@@ -1,5 +1,7 @@
 # YAAB - Yet another automation base #
 
+<a href="https://codeclimate.com/github/evilUrge/YAAB/maintainability"><img src="https://api.codeclimate.com/v1/badges/54caa8b3914d53e11ca1/maintainability" /></a>
+
 An easy to maintenance automation base for web based end-to-end tests.
 
 This base is using py.test framework, for an easy xml report (that later can be used by any CI).
